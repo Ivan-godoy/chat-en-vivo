@@ -1,0 +1,13 @@
+{
+    "name": "igodo/chat-vivo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "igodo",
+            "email": "ivangodoy24@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}
